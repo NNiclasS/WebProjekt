@@ -25,7 +25,7 @@
 </template>
 <script>
 //var ingredientsnumber = 0;
-
+//hallo
 import axios from "axios";
 export default {
   data: function () {
