@@ -19,7 +19,7 @@
       <router-link id="impressum" to="/">Site notice</router-link>
     </div> -->
   <div class='sidenav'>
-  <a>hallo</a>
+  <a></a>
   </div>
   </div>
 </template>
